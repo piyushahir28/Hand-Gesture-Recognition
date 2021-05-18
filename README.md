@@ -11,7 +11,7 @@ I am going to recognize hand gestures from a video sequence. To recognize these 
 * numpy
 * sklearn
 
-<img src="Media/main.png">
+![](Media/Main.png "Main")
 
 ### Steps:
 
